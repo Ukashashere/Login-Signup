@@ -25,10 +25,6 @@ Chao!!👷‍♂️🫡
 ![Screenshot (287)](https://github.com/Ukashashere/Login_signup_Ukasha/assets/116743795/e8ce335a-4d1a-4675-bb28-ff7bc04b85eb)                                                 
 ### .
 ### .
-### ***FOLLOWING IS HOW OUR MongoDB DATABASE LOOKS LIKE, ON OUR LAPTOP'S LOCALHOST***--
-![Screenshot (306)](https://github.com/Ukashashere/Login_signup_Ukasha/assets/116743795/984a855f-3d25-437f-ad65-71d1bd2c25b3)
-### .
-### .
 ### ***THE 'NAME' BOX IS CASE SENSITIVE, SO IF WRONG CASES(UPPER OR LOWER) ARE USED, DIFFERENT FROM THE TIME OF SIGNUP, IT'LL SHOW 'USER NOT FOUND'***--
 ![Screenshot (303)](https://github.com/Ukashashere/Login_signup_Ukasha/assets/116743795/ffa4749b-a7ce-4978-bc76-699684a725e7)
 ### .
@@ -41,6 +37,31 @@ Chao!!👷‍♂️🫡
 ### .
 ![Screenshot (305)](https://github.com/Ukashashere/Login_signup_Ukasha/assets/116743795/8ec612c2-4c67-41b7-afb1-84694b92991a)
 ### .
+### .
+### ***FOLLOWING IS THE DEPLOYMENT🚀 ON 'RENDER' OF THE PROJECT***--
+![Screenshot (491)](https://github.com/Ukashashere/Llogin/assets/116743795/64a6753f-bbdd-45aa-813c-c2acf51d8f16)
+### .
+### .
+![Screenshot (492)](https://github.com/Ukashashere/Llogin/assets/116743795/ae35a854-94a7-43b0-9e5e-102c7e13883e)
+### .
+### .
+![Screenshot (493)](https://github.com/Ukashashere/Llogin/assets/116743795/0b358dbc-b9bc-45c1-9915-d2962432bd8e)
+### .
+### .
+![Screenshot (494)](https://github.com/Ukashashere/Llogin/assets/116743795/8f2cb12b-c66f-496d-ab1a-6c9c0ab8a0ce)
+### .
+### .
+![Screenshot (489)](https://github.com/Ukashashere/Llogin/assets/116743795/7d5c3599-f310-458a-8641-c01a6761ae31)
+### .
+### .
+![Screenshot (495)](https://github.com/Ukashashere/Llogin/assets/116743795/9fe7ec42-58d7-4e58-b39a-bf9b9b34bb49)
+### .
+### .
+![Screenshot (488)](https://github.com/Ukashashere/Llogin/assets/116743795/bc9bdb24-e7ac-4b91-95b1-7815af16b16d)
+### .
+
+
+
 
 
 
