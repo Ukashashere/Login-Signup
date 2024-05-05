@@ -1,8 +1,14 @@
 const express = require("express")         //requires express.js
 const path = require("path")
+const bodyParser = require("body-parser");  //to simplify the viewing , to make the data readable from the client(filling the login/signup form) to server side that is complex in general viewing. To make it readable we usee bodyParser
+const dotenv = require ("dotenv");         //to hide the username/password of mongoDB
+
+
 const app = express()                      //start express.js
+dotenv.config();
+
 // const hbs = require("hbs")
-const LogInCollection = require("./mongodb")
+const LogInCollection = require("./mongodb")  //The other file mongodb from src folder is being imported here
 const port = process.env.PORT || 3000
 app.use(express.json())
 

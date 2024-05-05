@@ -1,13 +1,20 @@
 const mongoose=require("mongoose")
 
-mongoose.connect("mongodb://localhost:27017/Login_Signup_Ukasha")  //To connect a 'node' to your mongoDB database, 'Login_Signup_Ukasha' is the name of our database.
+const username = process.env.MONGODB_USERNAME;
+const password = process.env.MONGODB_PASSWORD;
+
+mongoose.connect(`mongodb+srv://${username}:${password}@cluster0.frb73jz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`, {
+    useNewURlParser : true,
+    useUnifiedTopology : true,
+});
+/*
 .then(()=>{
     console.log('mongoose connected');         //If it Connects
 })
 .catch((e)=>{                                  //If it fails to Connect
     console.log('failed');
 })
-
+*/
 const logInSchema=new mongoose.Schema({        //To create a database / a document
     name:{                                     //We have 'name' and 'password' in the database, we are defining schema of the document here.
         type:String,
