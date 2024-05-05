@@ -11,8 +11,7 @@ Chao!!👷‍♂️🫡
 ### .
 ### .
 ### ***FOLLOWING ARE THE DEPENDENCIES***--
-
-![image](https://github.com/Ukashashere/Login_signup_Ukasha/assets/116743795/c21c7e47-2a42-4ff4-880b-a927a886a903)                                                          
+![Screenshot (497)](https://github.com/Ukashashere/Llogin/assets/116743795/1bdd9c9a-b329-421c-82bb-657a3fa44ae3)                                                          
 ### .
 ### .
 ### ***FOLLOWING WILL HELP IN THE EXECUTION OF THE SOURCE CODE***--
@@ -22,7 +21,7 @@ Chao!!👷‍♂️🫡
 ![Screenshot (288)](https://github.com/Ukashashere/Login_signup_Ukasha/assets/116743795/a1b45c81-35d0-44c1-9c37-a703aa6fae5a)                                               
 ### .
 ### .
-![Screenshot (287)](https://github.com/Ukashashere/Login_signup_Ukasha/assets/116743795/e8ce335a-4d1a-4675-bb28-ff7bc04b85eb)                                                 
+![Screenshot (496)](https://github.com/Ukashashere/Llogin/assets/116743795/10e7ef42-af94-4903-8b92-7a2527a849e1)                                                 
 ### .
 ### .
 ### ***THE 'NAME' BOX IS CASE SENSITIVE, SO IF WRONG CASES(UPPER OR LOWER) ARE USED, DIFFERENT FROM THE TIME OF SIGNUP, IT'LL SHOW 'USER NOT FOUND'***--
@@ -38,7 +37,31 @@ Chao!!👷‍♂️🫡
 ![Screenshot (305)](https://github.com/Ukashashere/Login_signup_Ukasha/assets/116743795/8ec612c2-4c67-41b7-afb1-84694b92991a)
 ### .
 ### .
-### ***FOLLOWING IS THE DEPLOYMENT🚀 ON 'RENDER' OF THE PROJECT***--
+### ***FOLLOWING IS HOW THE DATABASE OF THE PROJECT LOOKS ON MONGODB***--
+![Screenshot (500)](https://github.com/Ukashashere/Llogin/assets/116743795/4b6cc07e-9ada-467b-9dd1-de81ad175912)
+### .
+### .
+### ***FOLLOWING WILL HELP WITH WORKING WITH MONGODB ATLAS***--
+![Screenshot (504)](https://github.com/Ukashashere/Llogin/assets/116743795/993e6f17-feb1-4b97-b9a9-982cf1ad5ee3)
+### .
+### .
+![Screenshot (501)](https://github.com/Ukashashere/Llogin/assets/116743795/f3f0f261-3694-4bcc-8559-e70b799ce692)
+### .
+### .
+![Screenshot (502)](https://github.com/Ukashashere/Llogin/assets/116743795/ba1290b9-715b-4163-956f-4eb97d31df45)
+### .
+### .
+![Screenshot (503)](https://github.com/Ukashashere/Llogin/assets/116743795/ce084008-ec9c-4402-8db4-b75de6a0e6ee)
+### .
+### .
+### ***FOLLOWING WILL HELP WORKING WITH MONGODB COMPASS (NOT NEEDED, JUST IF YOU WANT TO VIEW ON YOUR PC THAT HOW THE DATABASE OF THE PROJECT LOOKS LIKE, OTHERWISE JUST CONNECTING WITH MONGODB ATLAS IS ENOUGH FOR THE WORKING OF THE PROJECT)***--
+![Screenshot (498)](https://github.com/Ukashashere/Llogin/assets/116743795/c6deed32-ea02-4d72-b4f8-11b156120c57)
+### .
+### .
+![Screenshot (505)](https://github.com/Ukashashere/Llogin/assets/116743795/438892af-f0b9-4362-a04d-d7d67cd081b0)
+### .
+### .
+### ***FOLLOWING IS THE DEPLOYMENT🚀 OF THE PROJECT ON 'RENDER'***--
 ![Screenshot (491)](https://github.com/Ukashashere/Llogin/assets/116743795/64a6753f-bbdd-45aa-813c-c2acf51d8f16)
 ### .
 ### .
