@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: grid;
+    place-items: center;
+}
+
+h1{
+    /* color: rgb(223, 155, 52); */
+    margin-top: 20vh;
+    margin-bottom: 30px;
+
+}
+input{
+    font-size: 1rem;
+    width: 300px;
+    padding: 6px 2px; 
+    margin: 10px 0 10px 0;
+}
+.sub{
+    background-color:rgb(223, 155, 52);
+    cursor: pointer;
+}
+
+form{
+    /* margin-top: 20vh; */
+    text-align: center;
+    border: 5px solid rgb(111, 70, 23);
+    padding: 20px;
+    background-color: rgb(239, 192, 135);
+}
+
+
+/*The only and same syntax is used for both single and multiline comments */
+/*
+This CSS code snippet is used to style the elements of a webpage, likely the same webpage where the HTML code you provided is used. Let's go through each section:
+
+1. `* {
+    margin: 0;
+    padding: 0;
+}`: This sets the margin and padding of all elements to 0. The `*` selector targets all elements in the HTML document. Setting margin and padding to 0 ensures there are no default spacing around elements.
+
+2. `body {
+    display: grid;
+    place-items: center;
+}`: This styles the `<body>` element. It sets it to be a grid container and uses `place-items: center` to center its child elements both horizontally and vertically within the grid.
+
+3. `h1 {
+    margin-top: 20vh;
+    margin-bottom: 30px;
+}`: This styles `<h1>` elements. It adds a top margin of 20% of the viewport height and a bottom margin of 30 pixels. This likely creates some space above and below the `<h1>` element.
+
+4. `input {
+    font-size: 1rem;
+    width: 300px;
+    padding: 6px 2px; 
+    margin: 10px 0 10px 0;
+}`: This styles all `<input>` elements. It sets the font size to 1rem, width to 300 pixels, padding to 6 pixels on the top and bottom, and 2 pixels on the left and right. The margin is set to 10 pixels on the top and bottom, and 0 pixels on the left and right.
+
+5. `.sub {
+    background-color: rgb(223, 155, 52);
+    cursor: pointer;
+}`: This styles elements with the class "sub". It sets the background color to an RGB value of (223, 155, 52), likely giving it a different appearance than other elements. It also changes the cursor to a pointer when hovering over the element, indicating it's clickable.
+
+6. `form {
+    text-align: center;
+    border: 5px solid rgb(111, 70, 23);
+    padding: 20px;
+    background-color: rgb(239, 192, 135);
+}`: This styles `<form>` elements. It centers the text within the form, adds a 5-pixel solid border with an RGB color value of (111, 70, 23), adds 20 pixels of padding inside the form, and sets the background color to an RGB value of (239, 192, 135). This likely creates a visually distinct area for the form on the webpage.
+*/
